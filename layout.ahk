@@ -1,3 +1,4 @@
+#NoTrayIcon
 LShift & LAlt::SwitchLayout()
 LAlt & LShift::SwitchLayout()
 
